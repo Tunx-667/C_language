@@ -1,14 +1,22 @@
-# Repo này được tạo ra nhằm ghi lại toàn bộ lộ trình, tiến trình học ngôn ngữ C của tôi và nơi lưu trữ mã nguồn thực hành cá nhân.
+> [!NOTE]
+> ***Nơi lưu trữ lộ trình tự học C, bài tập thực hành và dự án cá nhân.***
 
-**01-Basics**/: Cú pháp cơ bản, biến, kiểu dữ liệu và các toán tử,if-else, switch-case) và vòng lặp (for, while) cơ bản.
+###  Cấu trúc Repository
 
-**02-Functions-Arrays**/: Hàm, mảng 1D/2D và chuỗi (strings).
+* **`01-Basics/`**
+  Cú pháp cơ bản, biến, kiểu dữ liệu, toán tử, câu lệnh điều kiện (`if-else`, `switch-case`) và vòng lặp (`for`, `while`).
 
-**03-Pointers-Memory**/: Con trỏ, con trỏ hàm và quản lý bộ nhớ (malloc, calloc, free).
+* **`02-Functions-Arrays/`**
+  Hàm, mảng 1D/2D và chuỗi (`strings`).
 
-**04-Structures-Files**/: Struct, union, enum và thao tác với file (FILE*).
+* **`03-Pointers-Memory/`**
+  Con trỏ, con trỏ hàm và quản lý bộ nhớ động (`malloc`, `calloc`, `free`).
 
-**05-Leetcode**/: Các bài giải leetcode
+* **`04-Structures-Files/`**
+  Struct, union, enum và thao tác với file (`FILE*`).
 
+* **`05-Leetcode/`**
+  Lời giải các bài tập LeetCode bằng C.
 
-**Projects**/: Các dự án nhỏ thực hành.
+* **`Projects/`**
+  Các dự án nhỏ thực hành.
